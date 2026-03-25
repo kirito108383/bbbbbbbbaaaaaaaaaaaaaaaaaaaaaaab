@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores principales de MI Bancolombia -->
+    <color name="colorPrimary">#002288</color> <!-- Azul principal más oscuro -->
+    <color name="colorPrimaryDark">#001155</color> <!-- Azul más oscuro aún -->
+    <color name="colorAccent">#FFDD33</color> <!-- Amarillo más claro -->
+    <color name="colorSecondary">#0055BB</color> <!-- Azul secundario más oscuro -->
+    <color name="colorLight">#F0F5FF</color> <!-- Azul muy claro -->
+    <color name="colorWhite">#F8F8F8</color> <!-- Blanco ligeramente grisáceo -->
+    <color name="textPrimary">#222222</color> <!-- Negro suavizado -->
+    <color name="textSecondary">#666666</color> <!-- Gris medio -->
+    <color name="background">#F8F8F8</color> <!-- Fondo blanco suavizado -->
+    <color name="cardBackground">#FFFFFF</color> <!-- Fondo de tarjetas -->
+    <color name="divider">#E0E0E0</color> <!-- Color para divisores -->
+</resources>
